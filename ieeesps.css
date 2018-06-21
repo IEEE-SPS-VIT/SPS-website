@@ -1,0 +1,83 @@
+.navbar-fixed-top{
+	min-height: 80px;
+}
+
+.navbar-nav{
+	padding-top: 15px;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color: #fff;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#home{
+	background: url(imgsps1.jpg);
+	display: table;
+	width: 100%;
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+#home h1{
+	text-align: center;
+	padding-top: 10%;
+	color: white;
+	word-spacing: 30px;
+	line-height: 2;
+	font-size: 3em;
+	text-transform: uppercase;
+
+}
+
+.sheet{
+	background-color: rgba(0,0,0,0.6);
+	height: 97.7%;
+}
+
+p{
+	font-size: 20px;
+	color: #B1B2BA;
+}
+
+#all{
+	padding-top: 30px;
+	padding-right: 30px;
+}
+
+#aalo{
+	padding-top: 30px;
+}
+
+#aboutus{
+	font-weight: 500;
+	color: #5264D9;
+}
+
+#about,#ieeesps,#events{
+	padding-top: 2.5%;
+}
+
+#events hr,h2{
+	padding-bottom: 2.5%;
+}
+
+#events{
+	margin: 0;
+}
+
+h2{
+	color: #57609C;
+}
+
+h5{
+	font-size: 2em;
+}
+footer{
+    background: none repeat scroll 0 0 #38345C;
+}
